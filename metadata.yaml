@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31918'
     url: http://www.gutenberg.org/2009/agents/31918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26328#Intercession--A-Sermon-Preached-by-the-Rev.-B.-N.-Michelson-B.A.
 gutenberg_issued: '2008-08-16'
 gutenberg_type: Text
 identifiers:

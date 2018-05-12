@@ -1,0 +1,26 @@
+_repo: Intercession--A-Sermon-Preached-by-the-Rev.-B.-N.-Michelson-B.A._26328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michelson, B. N.
+    gutenberg_agent_id: '31918'
+    url: http://www.gutenberg.org/2009/agents/31918
+description: ''
+gutenberg_issued: '2008-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Central Synagogue pulpit -- no. 4
+subjects:
+- !lcc 'BM'
+- !lcsh 'Jewish sermons -- Great Britain'
+- !lcsh 'World War, 1914-1918 -- Religious aspects'
+title: 'Intercession: A Sermon Preached by the Rev. B. N. Michelson, B.A.'
+url: http://www.gutenberg.org/ebooks/26328
